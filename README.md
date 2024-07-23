@@ -1,0 +1,1 @@
+Flutter'i kullanarak dosyayı olulturduk.Daha sonra lib klasörü içerisindeki dart dosyalarını yazdık. assets/images klasörü içerisine gerekli fotoları attık.
